@@ -31,10 +31,24 @@ var currentSong =0; // index song
 
 const playList = [
     {
+        src:"./acssets/mp3/gio.mp3",
+        nameSong:"GIÓ ",
+        singer: "JANK x QUANVROX",
+        img: "./acssets/image/gio.jpg"
+
+    },
+    {
         src:"./acssets/mp3/NhuAnhDaThayEm.mp3",
         nameSong:"Như Anh Đã Thấy Em",
         singer: "Phúc XP x Freak D",
         img: "https://i.ytimg.com/vi/cPbp2iFaZRo/maxresdefault.jpg"
+
+    },
+    {
+        src:"./acssets/mp3/henemolanyeuthu2.mp3",
+        nameSong:"Hẹn Em Ở Lần Yêu Thứ 2 ",
+        singer: "Nguyenn x Đặng Tuấn Vũ",
+        img: "./acssets/image/henemlanyeuthu2.jpg"
 
     },
     {
